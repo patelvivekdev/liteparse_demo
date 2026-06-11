@@ -1,0 +1,362 @@
+[
+  {
+    "text": "Acme Robotics — Master Services Agreement (FICTIONAL TEST DOCUMENT)",
+    "x": 72.0,
+    "y": 60.45599365234375,
+    "width": 445.4039306640625,
+    "height": 14.26800537109375,
+    "font_name": "Helvetica-Bold",
+    "font_size": 12.0,
+    "confidence": 1.0
+  },
+  {
+    "text": "1. Purpose and Background",
+    "x": 72.0,
+    "y": 90.45599365234375,
+    "width": 159.3719940185547,
+    "height": 14.26800537109375,
+    "font_name": "Helvetica-Bold",
+    "font_size": 12.0,
+    "confidence": 1.0
+  },
+  {
+    "text": "This document is a synthetic sample created to demonstrate a PDF text-extraction",
+    "x": 72.0,
+    "y": 107.0775146484375,
+    "width": 381.6541442871094,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "edge case. It contains no real or confidential information of any kind. Every",
+    "x": 72.0,
+    "y": 122.0775146484375,
+    "width": 346.6680908203125,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "paragraph below is ordinary, selectable PDF text and should extract cleanly with",
+    "x": 72.0,
+    "y": 137.0775146484375,
+    "width": 372.3196105957031,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "any standard text-extraction library. The page is deliberately filled with text so",
+    "x": 72.0,
+    "y": 152.0775146484375,
+    "width": 358.3125915527344,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "that its native text coverage stays high, mirroring a dense real-world contract.",
+    "x": 72.0,
+    "y": 167.0775146484375,
+    "width": 357.7245788574219,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "2. Scope of Work",
+    "x": 72.0,
+    "y": 195.45599365234375,
+    "width": 97.42800903320312,
+    "height": 14.26800537109375,
+    "font_name": "Helvetica-Bold",
+    "font_size": 12.0,
+    "confidence": 1.0
+  },
+  {
+    "text": "The Provider shall deliver widget calibration, telemetry review, firmware patching,",
+    "x": 72.0,
+    "y": 212.0775146484375,
+    "width": 376.3620910644531,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "and quarterly preventive maintenance services as described in the attached Schedule",
+    "x": 72.0,
+    "y": 227.0775146484375,
+    "width": 398.0237121582031,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "A. Services shall be performed by qualified personnel during ordinary business hours",
+    "x": 72.0,
+    "y": 242.0775146484375,
+    "width": 394.49560546875,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "unless the parties agree otherwise in writing. The Provider shall supply all tools,",
+    "x": 72.0,
+    "y": 257.0775146484375,
+    "width": 369.39007568359375,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "test equipment, and consumables necessary to complete the work to specification.",
+    "x": 72.0,
+    "y": 272.0775146484375,
+    "width": 382.84063720703125,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "All work shall conform to the acceptance criteria set out in Schedule B, and the",
+    "x": 72.0,
+    "y": 287.0775146484375,
+    "width": 365.3371887207031,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "Provider shall promptly remediate any deficiency identified during acceptance review.",
+    "x": 72.0,
+    "y": 302.0775146484375,
+    "width": 395.650634765625,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "3. Service-Level Obligations",
+    "x": 72.0,
+    "y": 330.45599365234375,
+    "width": 160.06797790527344,
+    "height": 14.26800537109375,
+    "font_name": "Helvetica-Bold",
+    "font_size": 12.0,
+    "confidence": 1.0
+  },
+  {
+    "text": "The Provider shall monitor each deployed unit continuously and shall report any",
+    "x": 72.0,
+    "y": 347.0775146484375,
+    "width": 369.9991149902344,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "anomaly to the Customer within one business day of detection. In addition, and",
+    "x": 72.0,
+    "y": 362.0775146484375,
+    "width": 366.523681640625,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "Each Provider",
+    "x": 72.0,
+    "y": 377.0775146484375,
+    "width": 65.94000244140625,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "their assigned service regions for the entire duration of this Agreement. Failure to",
+    "x": 72.0,
+    "y": 392.0775146484375,
+    "width": 376.4146423339844,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "meet this commitment shall entitle the Customer to the remedies described in Section 7,",
+    "x": 72.0,
+    "y": 407.0775146484375,
+    "width": 408.4921875,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "including service credits calculated on a pro-rata basis against the monthly fee.",
+    "x": 72.0,
+    "y": 422.0775146484375,
+    "width": 366.4921569824219,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "4. Compensation and Invoicing",
+    "x": 72.0,
+    "y": 450.45599365234375,
+    "width": 177.3719940185547,
+    "height": 14.26800537109375,
+    "font_name": "Helvetica-Bold",
+    "font_size": 12.0,
+    "confidence": 1.0
+  },
+  {
+    "text": "Fees are payable within thirty (30) days of the invoice date. All amounts are stated",
+    "x": 72.0,
+    "y": 467.0775146484375,
+    "width": 381.6752014160156,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "in U.S. dollars and exclude applicable taxes, duties, and similar governmental charges.",
+    "x": 72.0,
+    "y": 482.0775146484375,
+    "width": 403.2525939941406,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "Disputed amounts shall be raised in good faith within fifteen (15) days of receipt of",
+    "x": 72.0,
+    "y": 497.0775146484375,
+    "width": 381.0976257324219,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "the relevant invoice, and the parties shall work diligently to resolve any dispute.",
+    "x": 72.0,
+    "y": 512.0775146484375,
+    "width": 367.0801086425781,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "Undisputed amounts shall be paid when due regardless of any ongoing dispute over other",
+    "x": 72.0,
+    "y": 527.0775146484375,
+    "width": 417.3017272949219,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "line items appearing on the same invoice or on any related statement of account.",
+    "x": 72.0,
+    "y": 542.0775146484375,
+    "width": 375.2701721191406,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "5. Term and Termination",
+    "x": 72.0,
+    "y": 570.4559936523438,
+    "width": 139.36798095703125,
+    "height": 14.26800537109375,
+    "font_name": "Helvetica-Bold",
+    "font_size": 12.0,
+    "confidence": 1.0
+  },
+  {
+    "text": "This Agreement commences on the Effective Date and continues for an initial term of",
+    "x": 72.0,
+    "y": 587.0775146484375,
+    "width": 394.50616455078125,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "twelve (12) months, renewing automatically for successive twelve-month terms unless",
+    "x": 72.0,
+    "y": 602.0775146484375,
+    "width": 398.5380859375,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "either party gives sixty (60) days written notice of non-renewal. Either party may",
+    "x": 72.0,
+    "y": 617.0775146484375,
+    "width": 369.9676208496094,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "terminate for material breach that remains uncured thirty (30) days after written notice.",
+    "x": 72.0,
+    "y": 632.0775146484375,
+    "width": 399.73516845703125,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "This entire document is fictional and exists solely as a bug-report test fixture for",
+    "x": 72.0,
+    "y": 662.0775146484375,
+    "width": 367.6471252441406,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "text-extraction tooling, with one sentence intentionally rendered as vector outlines.",
+    "x": 72.0,
+    "y": 677.0775146484375,
+    "width": 381.0976257324219,
+    "height": 12.27447509765625,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  }
+]
