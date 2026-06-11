@@ -1,0 +1,182 @@
+[
+  {
+    "text": "Acme Robotics — Sample Services Agreement (FICTIONAL TEST DOCUMENT)",
+    "x": 72.0,
+    "y": 61.1400146484375,
+    "width": 449.4119873046875,
+    "height": 13.3919677734375,
+    "font_name": "Helvetica-Bold",
+    "font_size": 12.0,
+    "confidence": 1.0
+  },
+  {
+    "text": "1. Purpose",
+    "x": 72.0,
+    "y": 91.1400146484375,
+    "width": 61.35600280761719,
+    "height": 13.3919677734375,
+    "font_name": "Helvetica-Bold",
+    "font_size": 12.0,
+    "confidence": 1.0
+  },
+  {
+    "text": "This document is a synthetic sample created to demonstrate a PDF text-",
+    "x": 72.0,
+    "y": 107.49749755859375,
+    "width": 336.1365966796875,
+    "height": 11.718017578125,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "extraction edge case. It contains no real or confidential information. The",
+    "x": 72.0,
+    "y": 122.49749755859375,
+    "width": 332.6610412597656,
+    "height": 11.718017578125,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "paragraphs below are ordinary, selectable PDF text and should extract",
+    "x": 72.0,
+    "y": 137.49749755859375,
+    "width": 327.97808837890625,
+    "height": 11.718017578125,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "cleanly with any standard text-extraction library.",
+    "x": 72.0,
+    "y": 152.49749755859375,
+    "width": 221.1614990234375,
+    "height": 11.718017578125,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "2. Scope of Work",
+    "x": 72.0,
+    "y": 181.1400146484375,
+    "width": 97.35600280761719,
+    "height": 13.3919677734375,
+    "font_name": "Helvetica-Bold",
+    "font_size": 12.0,
+    "confidence": 1.0
+  },
+  {
+    "text": "The Provider shall deliver widget calibration, telemetry review, and",
+    "x": 72.0,
+    "y": 197.49749755859375,
+    "width": 308.1015625,
+    "height": 11.718017578125,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "quarterly maintenance services as described in the attached Schedule A.",
+    "x": 72.0,
+    "y": 212.49749755859375,
+    "width": 339.0766296386719,
+    "height": 11.718017578125,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "3. Obligations",
+    "x": 72.0,
+    "y": 241.1400146484375,
+    "width": 79.35598754882812,
+    "height": 13.3919677734375,
+    "font_name": "Helvetica-Bold",
+    "font_size": 12.0,
+    "confidence": 1.0
+  },
+  {
+    "text": "Each Provider",
+    "x": 72.0,
+    "y": 257.49749755859375,
+    "width": 66.08700561523438,
+    "height": 11.718017578125,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "must maintain a minimum service-level guarantee of 99.5% uptime for",
+    "x": 143.0399932861328,
+    "y": 259.1999816894531,
+    "width": 373.9200439453125,
+    "height": 10.08001708984375,
+    "font_name": "OCR",
+    "font_size": 7.679999828338623,
+    "confidence": 0.9660000205039978
+  },
+  {
+    "text": "their assigned service regions during the term of this Agreement.",
+    "x": 72.0,
+    "y": 272.49749755859375,
+    "width": 300.54156494140625,
+    "height": 11.718017578125,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "4. Compensation",
+    "x": 72.0,
+    "y": 301.1400146484375,
+    "width": 96.68399047851562,
+    "height": 13.391998291015625,
+    "font_name": "Helvetica-Bold",
+    "font_size": 12.0,
+    "confidence": 1.0
+  },
+  {
+    "text": "Fees are payable within thirty (30) days of invoice. All amounts are stated",
+    "x": 72.0,
+    "y": 317.49749755859375,
+    "width": 340.80914306640625,
+    "height": 11.718017578125,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "in U.S. dollars and exclude applicable taxes.",
+    "x": 72.0,
+    "y": 332.49749755859375,
+    "width": 206.00994873046875,
+    "height": 11.718017578125,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "This entire document is fictional and intended solely as a bug-report",
+    "x": 72.0,
+    "y": 362.49749755859375,
+    "width": 314.5590515136719,
+    "height": 11.718017578125,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "test fixture for text-extraction tooling.",
+    "x": 72.0,
+    "y": 377.49749755859375,
+    "width": 169.23898315429688,
+    "height": 11.718017578125,
+    "font_name": "Helvetica",
+    "font_size": 10.5,
+    "confidence": 1.0
+  }
+]
