@@ -1,4 +1,4 @@
-"""Parse a PDF with LiteParse, draw text bounding boxes on page images, save to out/."""
+"""Parse PDFs with LiteParse, draw text bounding boxes, save to out/<doc_name>/results/."""
 
 from __future__ import annotations
 
@@ -9,7 +9,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw
 from liteparse import LiteParse
 
-PDF_PATH = Path("pdf/acme_repro_missing_text.pdf")
+PDFS_DIR = Path("pdf")
 OUT_DIR = Path("out")
 BOX_COLOR = (255, 0, 0, 180)
 BOX_WIDTH = 2
@@ -61,13 +61,12 @@ def draw_bounding_boxes(
     return Image.alpha_composite(img, overlay)
 
 
-def main() -> None:
-    OUT_DIR.mkdir(exist_ok=True)
+def process_pdf(pdf_path: Path, out_dir: Path, parser: LiteParse) -> None:
+    """Parse one PDF and write page images, text, and bounding-box JSON to out_dir."""
+    out_dir.mkdir(parents=True, exist_ok=True)
 
-    parser = LiteParse()
-    result = parser.parse(PDF_PATH)
-    screenshots = parser.screenshot(PDF_PATH)
-
+    result = parser.parse(pdf_path)
+    screenshots = parser.screenshot(pdf_path)
     screenshot_by_page = {s.page_num: s for s in screenshots}
 
     for page in result.pages:
@@ -82,10 +81,10 @@ def main() -> None:
             page.height,
         )
 
-        out_image = OUT_DIR / f"page_{page.page_num:03d}_bbox.png"
+        out_image = out_dir / f"page_{page.page_num:03d}_bbox.png"
         annotated.convert("RGB").save(out_image)
 
-        out_json = OUT_DIR / f"page_{page.page_num:03d}_text_items.json"
+        out_json = out_dir / f"page_{page.page_num:03d}_text_items.json"
         out_json.write_text(
             json.dumps(
                 [
@@ -107,15 +106,32 @@ def main() -> None:
             encoding="utf-8",
         )
 
-        out_txt = OUT_DIR / f"page_{page.page_num:03d}.txt"
+        out_txt = out_dir / f"page_{page.page_num:03d}.txt"
         out_txt.write_text(page.text, encoding="utf-8")
 
         print(
-            f"Page {page.page_num}: {len(page.text_items)} boxes -> "
-            f"{out_image}, {out_txt}"
+            f"  Page {page.page_num}: {len(page.text_items)} boxes -> "
+            f"{out_image.name}, {out_txt.name}"
         )
 
-    print(f"Done. Output saved to {OUT_DIR.resolve()}")
+
+def main() -> None:
+    if not PDFS_DIR.is_dir():
+        raise SystemExit(f"PDF directory not found: {PDFS_DIR.resolve()}")
+
+    pdf_files = sorted(PDFS_DIR.glob("*.pdf"))
+    if not pdf_files:
+        raise SystemExit(f"No PDF files found in {PDFS_DIR.resolve()}")
+
+    parser = LiteParse()
+
+    for pdf_path in pdf_files:
+        doc_name = pdf_path.stem
+        results_dir = OUT_DIR / doc_name / "results"
+        print(f"Processing {pdf_path.name} -> {results_dir}/")
+        process_pdf(pdf_path, results_dir, parser)
+
+    print(f"Done. Processed {len(pdf_files)} PDF(s) under {OUT_DIR.resolve()}")
 
 
 if __name__ == "__main__":

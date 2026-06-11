@@ -1,0 +1,36 @@
+NORTHWIND LOGISTICS - MASTER SERVICES AGREEMENT (FICTIONAL)
+
+1. Engagement
+Vendor shall provide the organization, management, and coordination of the
+logistics services and the development of the operating plan described herein.
+Client shall afford Vendor a reasonable opportunity to review and provide input
+
+accurately described and identified in it prior to submission to the Steering Board.
+
+2. Subcontracting
+Vendor and Client shall endeavor in good faith to negotiate and enter into a
+subcontract setting forth the scope of services and the basis for compensation,
+and shall incorporate the agreed terms of the Master Agreement. Each of Vendor
+
+requirements for their respective work segments under this Agreement.
+
+3. Services
+a. Planning-Phase Services: Vendor shall provide such technical and pricing input
+in support of the development of a responsive operating plan as Client may request
+pursuant to written task orders issued from time to time during the term hereof.
+b. Post-Award Services: Subsequent to award, in the event Client requires services
+prior to execution of the subcontract, the parties shall execute a limited notice to
+proceed that identifies the early work and establishes the applicable compensation.
+c. Ownership of Documents: Unless otherwise agreed by Client in writing, all the
+materials resulting from the Services, including drawings, specifications, reports,
+samples, and other documents, shall be deemed the property of Client and shall be
+furnished to Client upon its request at the conclusion of the engagement period.
+
+4. Compensation and Reimbursement
+Client will reimburse Vendor for direct labor costs times the labor multiplier
+stipulated below, plus approved other direct costs incurred in the performance of
+the Services. Direct labor costs shall mean wages and salaries actually paid to the
+Vendor personnel, with no amounts added for profit or fee on such labor costs.
+
+This entire document is fictional and intended solely as a bug-report test fixture
+for PDF text-extraction tooling, and contains no real or confidential information.

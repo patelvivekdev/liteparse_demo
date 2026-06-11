@@ -1,0 +1,292 @@
+[
+  {
+    "text": "NORTHWIND LOGISTICS - MASTER SERVICES AGREEMENT (FICTIONAL)",
+    "x": 72.0,
+    "y": 62.89202880859375,
+    "width": 472.53607177734375,
+    "height": 11.98797607421875,
+    "font_name": "DejaVuSans-Bold",
+    "font_size": 12.0,
+    "confidence": 1.0
+  },
+  {
+    "text": "1. Engagement",
+    "x": 72.0,
+    "y": 92.89202880859375,
+    "width": 102.07199096679688,
+    "height": 11.98797607421875,
+    "font_name": "DejaVuSans-Bold",
+    "font_size": 12.0,
+    "confidence": 1.0
+  },
+  {
+    "text": "Vendor shall provide the organization, management, and coordination of the",
+    "x": 72.0,
+    "y": 110.02001953125,
+    "width": 403.8404846191406,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "logistics services and the development of the operating plan described herein.",
+    "x": 72.0,
+    "y": 124.02001953125,
+    "width": 413.7315368652344,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "Client shall afford Vendor a reasonable opportunity to review and provide input",
+    "x": 72.0,
+    "y": 138.02001953125,
+    "width": 417.6795349121094,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "accurately described and identified in it prior to submission to the Steering Board.",
+    "x": 72.0,
+    "y": 166.02001953125,
+    "width": 432.27447509765625,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "2. Subcontracting",
+    "x": 72.0,
+    "y": 192.8800048828125,
+    "width": 120.49198913574219,
+    "height": 12.0,
+    "font_name": "DejaVuSans-Bold",
+    "font_size": 12.0,
+    "confidence": 1.0
+  },
+  {
+    "text": "Vendor and Client shall endeavor in good faith to negotiate and enter into a",
+    "x": 72.0,
+    "y": 210.02001953125,
+    "width": 399.4304504394531,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "subcontract setting forth the scope of services and the basis for compensation,",
+    "x": 72.0,
+    "y": 224.02001953125,
+    "width": 417.364501953125,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "and shall incorporate the agreed terms of the Master Agreement. Each of Vendor",
+    "x": 72.0,
+    "y": 238.02001953125,
+    "width": 427.4759521484375,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "requirements for their respective work segments under this Agreement.",
+    "x": 72.0,
+    "y": 266.02001953125,
+    "width": 379.5329895019531,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "3. Services",
+    "x": 72.0,
+    "y": 292.8800048828125,
+    "width": 74.052001953125,
+    "height": 12.0,
+    "font_name": "DejaVuSans-Bold",
+    "font_size": 12.0,
+    "confidence": 1.0
+  },
+  {
+    "text": "a. Planning-Phase Services: Vendor shall provide such technical and pricing input",
+    "x": 72.0,
+    "y": 310.0199890136719,
+    "width": 427.4236145019531,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "in support of the development of a responsive operating plan as Client may request",
+    "x": 72.0,
+    "y": 324.0199890136719,
+    "width": 441.6090087890625,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "pursuant to written task orders issued from time to time during the term hereof.",
+    "x": 72.0,
+    "y": 338.0199890136719,
+    "width": 423.2339782714844,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "b. Post-Award Services: Subsequent to award, in the event Client requires services",
+    "x": 72.0,
+    "y": 352.0199890136719,
+    "width": 435.5504455566406,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "prior to execution of the subcontract, the parties shall execute a limited notice to",
+    "x": 72.0,
+    "y": 366.0199890136719,
+    "width": 428.48394775390625,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "proceed that identifies the early work and establishes the applicable compensation.",
+    "x": 72.0,
+    "y": 380.0199890136719,
+    "width": 441.5985107421875,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "c. Ownership of Documents: Unless otherwise agreed by Client in writing, all the",
+    "x": 72.0,
+    "y": 394.0199890136719,
+    "width": 423.0660705566406,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "materials resulting from the Services, including drawings, specifications, reports,",
+    "x": 72.0,
+    "y": 408.0199890136719,
+    "width": 426.1214599609375,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "samples, and other documents, shall be deemed the property of Client and shall be",
+    "x": 72.0,
+    "y": 422.0199890136719,
+    "width": 440.0025634765625,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "furnished to Client upon its request at the conclusion of the engagement period.",
+    "x": 72.0,
+    "y": 436.0199890136719,
+    "width": 423.3915100097656,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "4. Compensation and Reimbursement",
+    "x": 72.0,
+    "y": 462.8800048828125,
+    "width": 254.41201782226562,
+    "height": 12.0,
+    "font_name": "DejaVuSans-Bold",
+    "font_size": 12.0,
+    "confidence": 1.0
+  },
+  {
+    "text": "Client will reimburse Vendor for direct labor costs times the labor multiplier",
+    "x": 72.0,
+    "y": 480.0199890136719,
+    "width": 397.1519775390625,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "stipulated below, plus approved other direct costs incurred in the performance of",
+    "x": 72.0,
+    "y": 494.0199890136719,
+    "width": 428.3370056152344,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "the Services. Direct labor costs shall mean wages and salaries actually paid to the",
+    "x": 72.0,
+    "y": 508.0199890136719,
+    "width": 433.2090148925781,
+    "height": 10.500030517578125,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "Vendor personnel, with no amounts added for profit or fee on such labor costs.",
+    "x": 72.0,
+    "y": 522.02001953125,
+    "width": 415.06494140625,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "This entire document is fictional and intended solely as a bug-report test fixture",
+    "x": 71.97899627685547,
+    "y": 550.02001953125,
+    "width": 420.8294372558594,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  },
+  {
+    "text": "for PDF text-extraction tooling, and contains no real or confidential information.",
+    "x": 72.0,
+    "y": 564.02001953125,
+    "width": 419.2229919433594,
+    "height": 10.5,
+    "font_name": "DejaVuSans",
+    "font_size": 10.5,
+    "confidence": 1.0
+  }
+]
