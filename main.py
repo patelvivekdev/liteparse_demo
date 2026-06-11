@@ -64,7 +64,7 @@ def draw_bounding_boxes(
 def main() -> None:
     OUT_DIR.mkdir(exist_ok=True)
 
-    parser = LiteParse(quiet=True)
+    parser = LiteParse()
     result = parser.parse(PDF_PATH)
     screenshots = parser.screenshot(PDF_PATH)
 
