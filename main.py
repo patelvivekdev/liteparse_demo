@@ -107,7 +107,13 @@ def main() -> None:
             encoding="utf-8",
         )
 
-        print(f"Page {page.page_num}: {len(page.text_items)} boxes -> {out_image}")
+        out_txt = OUT_DIR / f"page_{page.page_num:03d}.txt"
+        out_txt.write_text(page.text, encoding="utf-8")
+
+        print(
+            f"Page {page.page_num}: {len(page.text_items)} boxes -> "
+            f"{out_image}, {out_txt}"
+        )
 
     print(f"Done. Output saved to {OUT_DIR.resolve()}")
 
